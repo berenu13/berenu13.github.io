@@ -1,0 +1,717 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"form"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"l",
+				"list_display"
+			],
+			[
+				"regist",
+				"Register"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"ga",
+				"ganas"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"aling",
+				"align-content"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"T",
+				"TableStyle"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"f",
+				"flex-end"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"t",
+				"thead	Tag"
+			],
+			[
+				"td",
+				"tbody	Tag"
+			],
+			[
+				"broder",
+				"border-width"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"bal",
+				"background-color"
+			],
+			[
+				"la",
+				"label	Tag"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"cadena",
+				"cadenanumeros"
+			],
+			[
+				"cad",
+				"cadenanumeros"
+			],
+			[
+				"confi",
+				"confirmar"
+			],
+			[
+				"p",
+				"php	<?php … ?>"
+			],
+			[
+				"column",
+				"columna"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"pr",
+				"props"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"dow",
+				"Download"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"pas",
+				"pass"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"sq",
+				"sql2"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_row"
+			],
+			[
+				"mysq",
+				"mysql_query"
+			],
+			[
+				"s",
+				"sql1"
+			],
+			[
+				"S",
+				"sql1"
+			],
+			[
+				"i",
+				"input	Tag"
+			],
+			[
+				"ID",
+				"ID"
+			],
+			[
+				"coun",
+				"countrylanguage"
+			],
+			[
+				"id",
+				"id_venta"
+			],
+			[
+				"DE",
+				"DELIMITER"
+			],
+			[
+				"de",
+				"DEPARTAMENTO"
+			],
+			[
+				"bit_m",
+				"bit_mae_upd"
+			],
+			[
+				"inse",
+				"INSERTAR"
+			],
+			[
+				"IN",
+				"INSERT"
+			],
+			[
+				"CA",
+				"carrera"
+			],
+			[
+				"BI",
+				"bit_carr_upd"
+			],
+			[
+				"USE",
+				"USER"
+			],
+			[
+				"I",
+				"INSTR"
+			],
+			[
+				"O",
+				"operacion"
+			],
+			[
+				"U",
+				"usuario"
+			],
+			[
+				"E",
+				"EXISTS"
+			],
+			[
+				"N",
+				"NULL"
+			],
+			[
+				"num",
+				"num_tarjeta"
+			],
+			[
+				"nu",
+				"NULL"
+			],
+			[
+				"n",
+				"NOT"
+			],
+			[
+				"no",
+				"NOT"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\n/*\n\nAPI account created\nHere are the details of your new API account.\nApplication name	music\nAPI key	8a572b76bd8efbb3852241cf03514fbf\nShared secret	88cdbd4efba95456cfb221eed1dc9c31\nRegistered to	Berenu1\n\n\n*/\n\nexport default {\nappname:  'music';\napiKey: '8a572b76bd8efbb3852241cf03514fbf';\nsecret: '88cdbd4efba95456cfb221eed1dc9c31';\nregisteredTo: 'Berenu13';\n\n}",
+			"file": "src/api/config.js",
+			"file_size": 385,
+			"file_write_time": 131383889818300875,
+			"settings":
+			{
+				"buffer_size": 362,
+				"line_ending": "Windows",
+				"name": "export defualt{"
+			}
+		},
+		{
+			"contents": "//agregar spinner loader\n1.-buscar un spinner, generar el html y css\n2.-agregar un nuevo componente en el directorio \"components\":\n Spinner.vue\n<template>\n	<div class=\"loader\">Loading...</div>\n</template>\n<script>\n  exportdefault {\n    name: 'spinner'\n  }\n</script>\n\n<style>\n.loader,\n.loader:after {\n  border-radius: 50%;\n  width: 10em;\n  height: 10em;\n}\n.loader {\n  margin: 60px auto;\n  font-size: 10px;\n  position: relative;\n  text-indent: -9999em;\n  border-top: 1.1em solid rgba(15,111,140, 0.2);\n  border-right: 1.1em solid rgba(15,111,140, 0.2);\n  border-bottom: 1.1em solid rgba(15,111,140, 0.2);\n  border-left: 1.1em solid #0f6f8c;\n  -webkit-transform: translateZ(0);\n  -ms-transform: translateZ(0);\n  transform: translateZ(0);\n  -webkit-animation: load8 1.1s infinite linear;\n  animation: load8 1.1s infinite linear;\n}\n@-webkit-keyframes load8 {\n  0% {\n    -webkit-transform: rotate(0deg);\n    transform: rotate(0deg);\n  }\n  100% {\n    -webkit-transform: rotate(360deg);\n    transform: rotate(360deg);\n  }\n}\n@keyframes load8 {\n  0% {\n    -webkit-transform: rotate(0deg);\n    transform: rotate(0deg);\n  }\n  100% {\n    -webkit-transform: rotate(360deg);\n    transform: rotate(360deg);\n  }\n}\n\n</style>\n\n3.-Ir a archivo App.vue y modificarlo con este código:\n\n<template lang=\"pug\">\n  <div id=\"app\">\n    <img src=\"./assets/logo.png\">\n    h1 Album Music\n    select(v-model=\"selectedCountry\")\n      option(v-for=\"country in countries\" v-bind:value=\"country.value\") {{ country.name}}\n    spinner(v-show=\"loading\")\n    ul\n      artist(v-for=\"artist in artists\" v-bind:artist=\"artist\" v-bind:key=\"artist.mbid\") \n    \n  </div>\n</template>\n\n<script>\nimport Artist from './components/Artist.vue'\nimport Spinner from './components/Spinner.vue'\nimport getArtists from './api'\n\nexport default {\n  name: 'app',\n  data () {\n    return {\n      artists:[],\n      countries:[\n      { name:'Mexico',value:'mexico'},\n      { name:'Argentina',value:'argentina'},\n      { name:'Colombia',value:'colombia'},\n      { name:'España',value:'spain'},\n      ],\n      selectedCountry: 'mexico',\n      loading:true\n    }\n  },\n  components:{\n    Artist,\n    Spinner\n  },\n  methods:{\n    refreshArtists(){\n      const self = this\n      this.loading=true\n      this.artists=[]\n    getArtists(this.selectedCountry)\n      .then(function (artists) {\n        self.loading=false\n        self.artists = artists\n      })\n\n    }\n  },\n  mounted(){\n    this.refreshArtists()\n  },\n  watch: {\n    selectedCountry(){\n      this.refreshArtists()\n\n    }\n  }\n}\n</script>\n\n<style lang=\"stylus\">\n#app\n    font-family 'Avenir', Helvetica, Arial, sans-serif\n    -webkit-font-smoothing antialiased\n    -moz-osx-font-smoothing grayscale\n    text-align center\n    color #2c3e50\n    margin-top 60px\n\nh1, h2\n    font-weight normal\n\nul\n    list-style-type none\n    padding 0\n\nli\n    display inline-block\n    margin 0 10px\n\na\n    color #42b983\n</style>\n	\n",
+			"file": "/E/api/last4.fm",
+			"file_size": 2901,
+			"file_write_time": 131381837080000000,
+			"settings":
+			{
+				"buffer_size": 2899,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<template lang=\"pug\">\n  li\n    h2: a(:href=\"artist.url\" target=\"_blank\") {{artist.name}}\n    img(:src=\"artist.image[2]['#text']\")\n</template>\n<script>\nexport default {\n  name: 'artist',\n  props:['artist']\n}\n</script>\n\n<style lang=\"stylus\">\nli\n  display block\n  margin 10px 0\n</style>s",
+			"file": "src/components/Artist.vue",
+			"file_size": 0,
+			"file_write_time": 131383892832071418,
+			"settings":
+			{
+				"buffer_size": 284,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/api/index.js",
+			"settings":
+			{
+				"buffer_size": 353,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<template lang='pug'>\n  <div id=\"app\">\n    img(src='./assets/logo.png')\n    h2 Music\n\n   h1 Album Music\n    select\n      option(v-for=\"country in countries\" v-bind:value=\"country.value\") {{ country.name}}\n    ul\n      artist(v-for=\"artist in artists\" v-bind:artist=\"artist\" v-bind:key=\"artist.mbid\")\n  </div>\n</template>\n\n<script>\nimport Artist from './components/Artist.vue'\nimport getArtists from './api'\n\nexport default {\n  name: 'app',\n  data () {\n    return {\n      artists:[],\n      countries:[\n      { name:'Mexico',value:'mexico'},\n      { name:'Argentina',value:'argentina'},\n      { name:'Colombia',value:'colombia'},\n      { name:'España',value:'spain'},\n      ],\n      selectedCountry: 'mexico'\n    }\n  },\n  components:{\n    Artist\n  },\n  methods:{\n    refreshArtists(){\n      const self = this\n    getArtists(this.selectedCountry)\n      .then(function (artists) {\n        self.artists = artists\n      })\n\n    }\n  },\n  mounted(){\n    this.refreshArtists()\n  },\n  watch: {\n    selectedCountry(){\n      this.refreshArtists()\n\n    }\n  }\n}\n</script>\n\n<style lang='stylus'>\n  #app \n    font-family: 'Avenir', Helvetica, Arial, sans-serif;\n    -webkit-font-smoothing: antialiased;\n    -moz-osx-font-smoothing: grayscale;\n    text-align: center;s\n    color: #2c3e50;\n    margin-top: 60px;\n\n\n  h1, h2 \n    font-weight: normal;\n\n\n  ul \n    list-style-type: none;\n    padding: 0;\n\n\n  li \n    display: inline-block;\n    margin: 0 10px;\n\n\n  a \n    color: #42b983;\n\n</style>\n",
+			"file": "src/App.vue",
+			"file_size": 1248,
+			"file_write_time": 131383896353117134,
+			"settings":
+			{
+				"buffer_size": 1474,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package control",
+		"selected_items":
+		[
+			[
+				"package control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"Package Control:install package",
+			"package control:install pacakage",
+			"package controll:install pacakage"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/pweb/escuela",
+		"/C/pweb/escuela/src",
+		"/C/pweb/escuela/src/api",
+		"/C/pweb/escuela/src/components"
+	],
+	"file_history":
+	[
+		"/E/api/last3.fm",
+		"/E/api/last2.fm",
+		"/E/api/last.fm",
+		"/G/api/last.fm",
+		"/C/pweb/escuela/src/App.vue",
+		"/C/wamp/www/Programacion Web/vues/form3.html",
+		"/C/Users/Berenice/Desktop/entorno/pd111/src/templates/about.html",
+		"/C/Users/Berenice/Desktop/entorno/pd111/src/templates/inicio.html",
+		"/C/Users/Berenice/Desktop/entorno/pd111/src/templates/navbar.html",
+		"/C/Users/Berenice/Desktop/entorno/pd111/src/pd110/settings.py",
+		"/C/Users/Berenice/Desktop/pd110/src/boletin/models.py",
+		"/C/Users/Berenice/Desktop/pd110/src/boletin/admin.py",
+		"/C/Users/Berenice/Desktop/pd110/src/src/urls.py",
+		"/C/Users/Berenice/Desktop/pd110/src/src/settings.py",
+		"/C/wamp/www/Programacion Web/vues/form1.html",
+		"/C/wamp/www/Programacion Web/vues/vue4.html",
+		"/C/wamp/www/Programacion Web/vues/vue2.html",
+		"/C/DAE2/proyecto/refugio/apps/mascota/urls.py",
+		"/C/DAE/tienda/tienda/settings.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			");\n",
+			"></",
+			"}\n",
+			"ejemplo",
+			"  ",
+			";\n",
+			"http",
+			"cadena",
+			":\n",
+			"php",
+			"-->\n",
+			"}",
+			".\n",
+			"2",
+			"column"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/api/config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								359,
+								359
+							]
+						],
+						"settings":
+						{
+							"auto_name": "export defualt{",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/api/last4.fm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2899,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								734,
+								734
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 708.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/components/Artist.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/api/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								353,
+								353
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/App.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								321,
+								321
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "escuela.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 174.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
